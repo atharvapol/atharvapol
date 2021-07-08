@@ -3,6 +3,7 @@
 - 🌱 I like to learn new things and always learning some tech  
 - 💞️ I like to do research and projects to solve real world problems
 - 📫 You can reach me : www.linkedin.com/in/atharva-pol
+-                       atharvakpol@gmail.com
 
 <!---
 atharvapol/atharvapol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
